@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb  4 20:05:26 2024
-
-@author: may
-"""
+#This code demonstrates one method to handle missing values in a data set - complete them with MEAN. 
 
 import csv
 import random
